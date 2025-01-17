@@ -1,6 +1,6 @@
 #include<iostream>
 
 int main(){
-    cout << "HelloWorld" << endl;
+    printf("C语言版本的HelloWorld!\n");
     return 0;
 }
